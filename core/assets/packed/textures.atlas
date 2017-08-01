@@ -1,0 +1,139 @@
+
+textures.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dashability
+  rotate: false
+  xy: 80, 28
+  size: 25, 25
+  orig: 75, 75
+  offset: 0, 50
+  index: -1
+Graveflame
+  rotate: false
+  xy: 2, 2
+  size: 10, 13
+  orig: 16, 16
+  offset: 3, 3
+  index: 0
+Graveflame
+  rotate: false
+  xy: 14, 2
+  size: 10, 13
+  orig: 16, 16
+  offset: 3, 3
+  index: 1
+Gravespawner
+  rotate: false
+  xy: 178, 40
+  size: 25, 20
+  orig: 48, 48
+  offset: 12, 16
+  index: -1
+Holespawner
+  rotate: false
+  xy: 178, 22
+  size: 16, 16
+  orig: 48, 48
+  offset: 16, 16
+  index: -1
+ManaUIfiller
+  rotate: false
+  xy: 47, 29
+  size: 31, 31
+  orig: 75, 75
+  offset: 21, 23
+  index: -1
+ManaUIreal
+  rotate: false
+  xy: 2, 17
+  size: 43, 43
+  orig: 75, 75
+  offset: 15, 20
+  index: -1
+Manaeater
+  rotate: false
+  xy: 223, 40
+  size: 11, 20
+  orig: 25, 25
+  offset: 6, 1
+  index: 0
+Manaeater
+  rotate: false
+  xy: 236, 44
+  size: 11, 16
+  orig: 25, 25
+  offset: 6, 4
+  index: 1
+Orbability
+  rotate: false
+  xy: 107, 28
+  size: 25, 25
+  orig: 75, 75
+  offset: 25, 50
+  index: -1
+Slowability
+  rotate: false
+  xy: 134, 30
+  size: 25, 25
+  orig: 75, 75
+  offset: 50, 50
+  index: -1
+fireball
+  rotate: false
+  xy: 26, 8
+  size: 9, 7
+  orig: 16, 16
+  offset: 4, 4
+  index: 0
+fireball
+  rotate: false
+  xy: 58, 22
+  size: 11, 5
+  orig: 16, 16
+  offset: 2, 5
+  index: 1
+mana
+  rotate: false
+  xy: 196, 30
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+orbthing
+  rotate: false
+  xy: 47, 18
+  size: 9, 9
+  orig: 48, 48
+  offset: 4, 35
+  index: -1
+player
+  rotate: false
+  xy: 205, 44
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+wizardman
+  rotate: false
+  xy: 161, 18
+  size: 15, 37
+  orig: 75, 75
+  offset: 29, 12
+  index: -1
+xpbar
+  rotate: false
+  xy: 80, 55
+  size: 47, 5
+  orig: 75, 75
+  offset: 12, 34
+  index: -1
+xpbarfiller
+  rotate: false
+  xy: 129, 57
+  size: 45, 3
+  orig: 75, 75
+  offset: 13, 35
+  index: -1
